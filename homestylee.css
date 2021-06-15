@@ -1,0 +1,53 @@
+html{
+    background-color: black;
+    color:white;
+    font-family: 'Times New Roman';
+}
+.logo1 {
+    width: auto;
+    text-align: center;
+    padding: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.container1 {
+    text-align: center;
+    background-color:lightslategray;
+    font-family: Times New Roman;
+}
+
+
+.link{
+    text-align: center;
+    color: yellow;
+}
+.link2{
+    text-align: center;
+    color:yellow;
+}
+
+.boxlink {
+    
+    background-color: grey;
+    color: red;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
+  
+.section{
+    margin: auto;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+a{
+    color: orange;
+    font-weight: bold;
+}
